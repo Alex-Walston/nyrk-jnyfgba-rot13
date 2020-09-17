@@ -1,2 +1,5 @@
 # nyrk-jnyfgba-rot13
-rot 13 encryption
+
+One of my first python projects as a cyber security student
+
+
